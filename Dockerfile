@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /root/basic-banking-system/app
+WORKDIR /root/basic-banking-system/Dockerfile
 
 COPY package*.json ./
 
